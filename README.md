@@ -555,7 +555,7 @@ The app is designed to work with a physical agricultural robot. The expected har
 9. **No error handling for Bluetooth disconnects** during command replay.
 10. **Single Bluetooth device targeting** — Hardcoded to connect to a device named "HC-05".
 
----
+----
 
 ## License
 
